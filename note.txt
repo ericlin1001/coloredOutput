@@ -1,0 +1,6 @@
+#View the free disk space
+sudo df -h
+-h means human-readable
+
+#View the size of directory
+sudo du -sh
